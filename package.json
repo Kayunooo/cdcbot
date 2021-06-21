@@ -1,0 +1,14 @@
+{
+  "name": "cdcbot",
+  "version": "0.0.1",
+  "description": "yes.",
+  "main": "index.js",
+  "author": "Kayuno",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
